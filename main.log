@@ -1,0 +1,183 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.5.31)  31 MAY 2023 18:35
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/email/OneDrive/Hobbys/Projekte/Allgemeine Trinkbedingungen/ATB/main.tex"
+(c:/Users/email/OneDrive/Hobbys/Projekte/Allgemeine Trinkbedingungen/ATB/main.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-03-30> (C:\Users\email\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(C:\Users\email\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (C:\Users\email\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2023/03/28 3.87 The Babel package
+\babel@savecnt=\count193
+\U@D=\dimen141
+\l@unhyphenated=\language79
+ (C:\Users\email\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count194
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\email\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+)
+Package babel Info: Main language set with 'main='. Except if you have
+(babel)             problems, prefer the default mechanism for setting
+(babel)             the main language. Reported on input line 4339.
+ (C:\Users\email\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+) (C:\Users\email\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\ngerman.ldf
+Language: ngerman 2021/02/27 v2.13 German support for babel (post-1996 orthography)
+ (C:\Users\email\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\ngermanb.ldf
+Language: ngermanb 2021/02/27 v2.13 German support for babel (post-1996 orthography)
+Package babel Info: Making " an active character on input line 122.
+))) (C:\Users\email\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/de\babel-ngerman.tex
+Package babel Info: Importing font and identification data for ngerman
+(babel)             from babel-de.ini. Reported on input line 11.
+) (C:\Users\email\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+)
+
+LaTeX Warning: \include should only be used after \begin{document} on input line 4.
+
+(Formatting/Packages.tex) (C:\Users\email\AppData\Local\Programs\MiKTeX\tex/latex/tipa\tipa.sty
+Package: tipa 2002/08/08 TIPA version 1.1
+ (C:\Users\email\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+ (C:\Users\email\AppData\Local\Programs\MiKTeX\tex/latex/tipa\t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+Now handling font encoding T3 ...
+... no UTF-8 mapping file for font encoding T3
+)))
+
+LaTeX Warning: \include should only be used after \begin{document} on input line 5.
+
+(Formatting/Sections.tex) (C:\Users\email\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count195
+\l__pdf_internal_box=\box51
+) (main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 11.
+LaTeX Font Info:    Trying to load font information for T3+cmr on input line 11.
+ (C:\Users\email\AppData\Local\Programs\MiKTeX\tex/latex/tipa\t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 14.
+ (Content/Allgemeine_Regelungen.tex [1
+
+{C:/Users/email/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 43.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 43.
+) (Content/Bier-Pong.tex [2] [3] [4] [5]) (Content/Buffalo.tex) (Content/Ring_of_Fire.tex [6] [7]
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+[]\OT1/cmr/m/n/10 Three-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+[]\OT1/cmr/m/n/10 Four-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
+[]\OT1/cmr/m/n/10 Five-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]\OT1/cmr/m/n/10 Six-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+[]\OT1/cmr/m/n/10 Seven-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+[]\OT1/cmr/m/n/10 Eight-
+ []
+
+
+Overfull \hbox (2.25003pt too wide) in paragraph at lines 52--52
+[]\OT1/cmr/m/n/10 Kategorie| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--56
+[]\OT1/cmr/m/n/10 Thumb
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--57
+[]\OT1/cmr/m/n/10 Question
+ []
+
+
+Overfull \hbox (4.30557pt too wide) in paragraph at lines 59--59
+[]\OT1/cmr/m/n/10 Wasserfall| 
+ []
+
+[8] [9]) (Content/Flunkyball.tex [10] [11]) (Content/Rage_Cage.tex [12] [13]) (Content/Busfahren_solo.tex) (Content/Busfahren_group.tex [14] [15]) (Content/Pferderennen.tex [16]) (Content/Dreiermensch.tex [17]) [18] (main.aux) ) 
+Here is how much of TeX's memory you used:
+ 2737 strings out of 476331
+ 45461 string characters out of 5787765
+ 1862660 words of memory out of 5000000
+ 23151 multiletter control sequences out of 15000+600000
+ 519285 words of font info for 54 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 61i,9n,72p,588b,194s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\email\AppData\Local\MiKTeX\fonts/pk/ljfour/public/tipa/dpi600\tipa10.pk> <C:\Users\email\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\email\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcbx1200.pk><C:/Users/email/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/email/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/email/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/email/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/email/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/email/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb>
+Output written on main.pdf (18 pages, 142653 bytes).
+PDF statistics:
+ 119 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

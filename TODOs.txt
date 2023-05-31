@@ -1,0 +1,25 @@
+Open TODOs:
+
+1. Allgemeine Formatierung
+Das File ist seeehr seehr hässlich. Das solls ich ändern.
+Vor allem soll auch der Text breiter werden. Kein Mensch braucht hier so viel Rand.
+
+2. Formatierung von Abschnitten, Paragrafen, Absätzen und Unter-Absätzen.
+Die Formatierung soll wie folgt aussehen für die entsprechenden Befehle aussehen:
+\section      "Abschnitt N XX", in Referenzen "Abschnitt N", wobei N eine durchlaufende Nummerierung und XX der Name des Abschnittes ist.
+\subsection   "§ N. XX",        in Referenzen "§ N", wobei N eine durchlaufende Nummerierung und XX der Name des Paragrafen ist.
+\paragraph    "(n)",            in Referenzen "Absatz (n)" bzw. "§ N Absatz (n)", wobei n eine Nummerierung ist, die je Paragraf neu bei 1 startet.
+\subparagraph "a.",             in Referenzen "Absatz (n) a." bzw. "§ N Absatz (n) a.", wobei Nummerierung mit Kleinbuchstaben ist, die für jeden Absatz neu bei a startet.
+
+3. Tabellen Formatieren
+Die Tabellen sind quasi Frankensteins Monster. Muss anders werden.
+
+4. Zusammenfassung umbenennen
+Es soll einfach Präambel am Anfang stehen statt Zusammenfassung.
+
+5. Titel, Untertitel, etc.
+Der Untertitel "Regelwerk für Trinkspiele und Trinkpflichten" fehlt. 
+Allgemein bin ich mit dem Titel-Bereich nicht so zufrieden. Basically sollte auch mein Name da raus. Der steht gerade nur drin, weil Latex meckert ohne Autor und ich zu faul war einen Workaround zu suchen.
+
+6. Präambel neu schreiben
+Wer die Präambel liest und nicht merkt warum, würde auch keine Erklärung verstehen also gibts keine.
