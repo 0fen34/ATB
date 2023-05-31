@@ -1,0 +1,8 @@
+QuoteStyle = Traditional
+
+VerbEnvir
+{
+    verbatim comment listing verbatimtab rawhtml errexam picture texdraw
+    filecontents pgfpicture tikzpicture minted lstlisting texttt
+    solution
+}
