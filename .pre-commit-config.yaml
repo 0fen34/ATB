@@ -10,4 +10,4 @@ repos:
     rev: V3.21.1
     hooks:
       - id: latexindent
-        args: [-m, -s, -w]
+        args: [-m, -s]
