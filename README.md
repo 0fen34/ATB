@@ -16,6 +16,7 @@ Es bestehen schon ein paar Issues die gelöst werden müssen bevor dieses Projek
 
 Viel Spaß :D
 
+Einen massiven Dank geht an [Trup3s](https://github.com/Trup3s) der komplett die Zügel dieses Repositories in den Händen hält <3
 
 Hier noch das default-README mit ein paar nützlichen Infos zur Benutzung:
 
