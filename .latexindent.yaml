@@ -1,0 +1,4 @@
+onlyOneBackUp: 0
+defaultIndent: "\t\t\t\t"
+lookForAlignDelims:
+  tabbing: 1
