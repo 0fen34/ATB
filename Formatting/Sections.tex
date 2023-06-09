@@ -1,1 +1,8 @@
+\counterwithout{subsection}{section}
 \renewcommand{\thesubsection}{\S\arabic{subsection}}
+\titleformat{\subsubsection}[runin]% runin puts it in the same paragraph
+       {\normalfont\bfseries}% formatting commands to apply to the whole heading
+       {(\arabic{subsubsection})}% the label and number
+       {0.5em}% space between label/number and subsection title
+       {}% formatting commands applied just to subsection title
+       []% punctuation or other commands following subsection title
