@@ -1,16 +1,21 @@
 % !TeX root = ATB.tex
-\documentclass{article}
+\documentclass{report}
 \usepackage[english, main = ngerman]{babel}
 \usepackage{tipa} % IPA Aussprache Symbole
 
-\title{Allgemeine Trinkbedingungen}
-\author{0fen}
+\title{\Huge Allgemeine Trinkbedingungen \\[2ex] \Large Regelwerk für Trinkspiele und Trinkpflichten}
+% \author{}
 \date{07.05.2023}
+
+\addto\captionsngerman{%
+	\renewcommand{\abstractname}{Präambel}
+}
 
 \begin{document}
 
 \include{Formatting/Sections}
 
+\pagenumbering{roman}
 \maketitle
 \begin{abstract}
 	Einleitende Worte und so.
@@ -23,6 +28,9 @@
 	Wenns genug stört, wirds vielleicht geändert, vielleicht auch nicht.
 	Have fun, take care.
 \end{abstract}
+\tableofcontents
+\cleardoublepage
+\pagenumbering{arabic}
 
 \input{Content/Allgemeine_Regelungen}
 \input{Content/Bier-Pong}
