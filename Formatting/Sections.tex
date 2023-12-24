@@ -1,1 +1,6 @@
 \renewcommand{\thesection}{\S\arabic{section}}
+
+% Redefine the format of cross-references for enumeration items
+\makeatletter
+\renewcommand{\p@enumi}{\thesection{} Absatz }
+\makeatother
