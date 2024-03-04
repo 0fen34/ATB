@@ -1,0 +1,23 @@
+name: Pre-Release LaTeX document build
+on:
+  push:
+    branches:
+      - 'main'
+jobs:
+  build_latex:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Git repository
+        uses: actions/checkout@v3
+      - name: Compile LaTeX document
+        uses: xu-cheng/latex-action@v2
+        with:
+          root_file: ATB.tex
+      - name: Upload PDF file to the release page
+        uses: "marvinpinto/action-automatic-releases@latest"
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          files: ATB.pdf
+          prerelease: true
+          title: "Latest Build"
+          automatic_release_tag: "latest"
