@@ -15,4 +15,4 @@ Tobt euch  sowohl bei Issues als auch bei sonstigen Veränderungswünschen aus u
 
 Viel Spaß :D
 
-Ein massiver Dank geht an [Trup3s](https://github.com/Trup3s), der komplett die Zügel dieses Repositories in den Händen hält <3
+Ein massiver Dank geht an [Trup3s](https://github.com/Trup3s) und [7FM](https://github.com/7FM) für ihren massiven Support <3
