@@ -1,6 +1,6 @@
 # ATB
 
-Download the latest version [here](https://github.com/Ofen34/ATB/releases/download/latest/ATB.pdf).
+Download the latest version [here](https://github.com/0fen34/ATB/releases/download/latest/ATB.pdf).
 
 ## Willkommen!
 
